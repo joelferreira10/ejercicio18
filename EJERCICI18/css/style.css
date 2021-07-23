@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.card-promos{
+    margin: 30px 0;
+}
+.card-promos li{
+    list-style: none;
+}
+.card-promos li:first-child{
+    font-size: 30px;
+}
